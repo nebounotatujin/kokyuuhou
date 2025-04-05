@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html># kokyuuhou
 <head>
 <title>時間経過の視覚化</title>
 <style>
